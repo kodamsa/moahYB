@@ -28,9 +28,7 @@
 #
 3 columns
 62 rows
-Index
-Brain Weight
-Body Weight
+Index Brain_Weight Body_Weight
 1     3.385    44.500
 2     0.480    15.500
 3     1.350     8.100
